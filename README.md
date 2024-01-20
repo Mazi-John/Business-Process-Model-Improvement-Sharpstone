@@ -1,6 +1,6 @@
 # BUSINESS-PROCESS-IMPROVEMENT-Sharpstone Jewelry
 
-**How can we reduce the time it takes online clients to pay for the products in their order? That’s the problem question that this business process modeling project aimed to solve.**
+**How can we reduce the time it takes online clients to pay for the products in their order? That’s the problem question that this business process improvement project aimed to solve.**
 
 Sharpstone Jewelry Store has always been an online store until it assumed the status of a hybrid business by also becoming a brick-and-mortar store that walk-in clients could visit. 
 90% of its jewelry orders are generated online through social media while walk-in clients and website purchases account for the rest. 
